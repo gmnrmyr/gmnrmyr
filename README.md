@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Myr</h1>
-<h3 align="center">A passionate Junior Web Developer and Generative Art Enthusiast from Brazil</h3>
+<h3 align="center">A passionate junior full stack web developer and generative art enthusiast from Brazil</h3>
 
 - 🔭 I’m currently working as Art Director on [GraviDAO](https://linktr.ee/gravidao)
 
