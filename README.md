@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Myr</h1>
-<h3 align="center">A passionate junior web developer from Brazil</h3>
+<h3 align="center">A passionate Junior Web Developer and Generative Art Enthusiast from Brazil</h3>
 
-- 🔭 I’m currently working on [GraviDAO](https://linktr.ee/gravidao)
+- 🔭 I’m currently working as Art Director on [GraviDAO](https://linktr.ee/gravidao)
 
-- 🌱 I’m currently learning **JavaScript, Phyton, React, Solidity, Vex, P5.js**
+- 🌱 I’m currently learning and praticing **JavaScript, Phyton, React, Solidity, Vex and P5.js**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/gmyr](https://linktr.ee/gmyr)
-
-- 📫 How to reach me **manera@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gmnr9/](https://www.linkedin.com/in/gmnr9/)
 
