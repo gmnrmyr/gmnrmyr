@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything I can**
 
-- 👨‍💻 All of my projects are available at [http://grovve.xyz/](http://grovve.xyz/) (to be updated soon!)
+- 👨‍💻 All of my projects are available at [http://grovve.xyz/](http://grovve.xyz/) (to be updated and reworked soon!)
 
 - 📫 How to reach me **myr@bonusblock.io**
 
