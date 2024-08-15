@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://guimanera.com.br/](http://guimanera.com.br/)
 
-- 📫 How to reach me **myr@bonusblock.io**
+- 📫 How to reach me **myr@bonusblock.io** or via my socials!
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gmnr9/](https://www.linkedin.com/in/gmnr9/)
 
