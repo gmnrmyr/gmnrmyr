@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Myr, also known as Guilherme Manera</h1>
-<h3 align="center">T-Shaped UX Designer at BonusBlock</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmnrmyr&label=Profile%20views&color=0e75b6&style=flat" alt="gmnrmyr" /> </p>
-
-- 🔭 I’m currently working on [BonusBlock](http://bonusblock.io/)
 
 - 🌱 I’m currently learning **Everything I can**
 
 - 👨‍💻 All of my projects are available at [http://guimanera.com.br/](http://guimanera.com.br/)
 
-- 📫 How to reach me **myr@bonusblock.io** or via my socials!
+- 📫 How to reach me -> via my socials!
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gmnr9/](https://www.linkedin.com/in/gmnr9/)
 
