@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmnrmyr&label=Profile%20views&color=0e75b6&style=flat" alt="gmnrmyr" /> </p>
 
 - 🌱 I'm currently learning **Docker, Postgres, Typescript**
-- 💼 Work: **@Gestor Seller**
+- 💼 Working: **As freelancer**
 - 🚀 Personal projects: **[numoraq.online](https://numoraq.online)** and **[ascendosrs.com](https://ascendosrs.com)** <-- both in beta.
 - 👨‍💻 My design portfolio [http://guimanera.com.br/](http://guimanera.com.br/)
 - 📫 How to reach me -> via my socials!
